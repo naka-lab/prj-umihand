@@ -18,10 +18,27 @@ Modified to match the dimensions and mounting-hole locations of the linear rail 
 
 Modified accordingly to maintain compatibility with the updated gripper-bottom_plate.
 
+## File Types
+
+### STEP Files (.step)
+
+STEP files are provided for CAD editing and further design modifications. These files can be imported into CAD software such as Fusion 360, SolidWorks, and FreeCAD for customization and future development.
+
+Examples:
+- gripper-bottom_plate-v1.step
+- gripper-grip-v1.step
+
+### STL Files (.stl)
+
+STL files are provided for direct 3D printing. These files can be imported into slicer software such as Bambu Studio, Cura, or PrusaSlicer without additional CAD processing.
+
+Examples:
+- gripper-bottom_plate.stl
+- gripper-grip.stl
+
 ## Notes
 
 - The remaining parts are identical to the original UMI Hand design.
-- STEP and STL files are provided for both modification and printing purposes.
 - Please refer to the BOM directory for the corresponding parts list available in Japan.
 
 ## Revision History

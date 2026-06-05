@@ -6,6 +6,8 @@ This directory contains modified CAD models for the UMI Hand.
 
 The original UMI Hand design uses a linear rail that is not readily available in Japan. To enable assembly using components that can be purchased domestically, several CAD models were modified.
 
+These modifications were created and validated at Nakamura Laboratory, The University of Electro-Communications.
+
 ## Modified Parts
 
 ### gripper-bottom_plate

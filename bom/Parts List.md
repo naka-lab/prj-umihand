@@ -4,7 +4,7 @@ The following parts were used to assemble the modified UMI Hand at Nakamura Labo
 
 ## Linear Rail
 
-### MGN9C Linear Guide (MISUMI)
+### MGN9C Linear Guide (MGN9C1R150Z0HM, MISUMI)
 
 https://jp.misumi-ec.com/vona2/detail/221005481777/
 - ブロック種類：標準タイプ
@@ -16,7 +16,7 @@ https://jp.misumi-ec.com/vona2/detail/221005481777/
 
 ## Spring
 
-### Compression Spring
+### Compression Spring (UR10-50)
 
 https://jp.misumi-ec.com/vona2/detail/110302604820/
 - 自由長：50
